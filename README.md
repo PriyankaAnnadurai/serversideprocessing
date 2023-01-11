@@ -6,27 +6,16 @@ To design a website to perform mathematical calculations in server side.
 ## DESIGN STEPS:
 
 ### Step 1:
-
-
-
+First clone the repository in open theia ide terminal.
 ### Step 2:
-
-
-
+Write the program using html and css for the calculations to be displayed in the serverside.
 ### Step 3:
-
-
-
+Make changes in settings.py to run the webserver.
 ### Step 4:
-
-
-
+Add codes to urls.py and views.py to run the code into the server.
 ### Step 5:
-
-
-
+Now run the server.
 ### Step 6:
-
 Publish the website in the given URL.
 
 ## Program:
@@ -122,10 +111,10 @@ body {
 
 ## Output:
 ![OUTPUT](./images/output.png)
-
+![Serveroutput](./images/server.png)
 ### Home Page:
 ![HOMEPAGE](./images/homepage.png)
 
 ## Result:
-
+Thus the webserver is developed to calculate the perimeter.
 
