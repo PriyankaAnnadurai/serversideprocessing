@@ -29,9 +29,7 @@ To design a website to perform mathematical calculations in server side.
 
 Publish the website in the given URL.
 
-## PROGRAM :
-
-## OUTPUT:
+## Program:
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -41,7 +39,7 @@ Publish the website in the given URL.
         form {
   width: 500px;
   margin: 0 auto;
-  background-color: white;
+  background-color: rgb(126, 78, 138);
   border: 1px solid #ccc;
   border-radius: 5px;
   padding: 20px;
@@ -76,7 +74,7 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-  background-color: #45a049;
+  background-color: #7c1053;
 }
 
 .container {
@@ -87,7 +85,7 @@ input[type="submit"]:hover {
 
 .perimeter {
   margin-bottom: 20px;
-  color: purple;
+  color: black;
   font-size: 20px;
   font-weight: bold;
 }
@@ -95,6 +93,9 @@ h1 {
   text-align: center;
   font-size: 24px;
   color: purple;
+}
+body {
+    background-color: rgb(41, 2, 32);
 }
 
 </style>
@@ -118,8 +119,13 @@ h1 {
     
 </html>
 ```
-### Home Page:
 
+## Output:
+![OUTPUT](./images/output.png)
+
+### Home Page:
+![HOMEPAGE](./images/homepage.png)
 
 ## Result:
+
 
